@@ -1,5 +1,5 @@
 {
-    "name": "bitsharesjs",
+    "name": "gphjs",
     "version": "4.0.0",
     "description": "Pure JavaScript BitShares library for node.js and browsers.",
     "browser": {
@@ -39,7 +39,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bitshares/bitsharesjs.git"
+        "url": "git+https://github.com/graphene-blockchain/graphenejs.git"
     },
     "author": "BitShares UI Team <ui-dev@bitshares.org>",
     "contributors": [
@@ -50,7 +50,7 @@
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/bitshares/bitsharesjs/issues"
+        "url": "https://github.com/graphene-blockchain/graphenejs/issues"
     },
     "engines": {
         "node": ">= 6.0.0"
